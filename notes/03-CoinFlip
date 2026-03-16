@@ -1,0 +1,1 @@
+blockhash is public and predictable within the same block thus we can mapping the public $blockhash$ to a predictable binary outcome $\{0, 1\}$
