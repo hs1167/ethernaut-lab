@@ -19,3 +19,7 @@ Foundry-based workspace for solving Ethernaut levels.
 - [ ] Level 08 - Vault
 - [ ] Level 09 - King
 - [ ] Level 10 - Reentrancy
+
+## Special thanks
+
+Thanks to teddav for providing exactly the kind of intellectual bad influence that leads to an Ethernaut repo.
