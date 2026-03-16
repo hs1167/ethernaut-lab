@@ -12,7 +12,7 @@ Foundry-based workspace for solving Ethernaut levels.
 - [x] Level 01 - Fallback
 - [x] Level 02 - Fallout
 - [x] Level 03 - Coin Flip
-- [ ] Level 04 - Telephone
+- [x] Level 04 - Telephone
 - [ ] Level 05 - Token
 - [ ] Level 06 - Delegation
 - [ ] Level 07 - Force
