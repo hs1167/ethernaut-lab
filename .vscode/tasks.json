@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "anvil",
+      "type": "shell",
+      "command": "anvil"
+    },
+    {
+      "label": "forge build",
+      "type": "shell",
+      "command": "forge build"
+    },
+    {
+      "label": "forge test",
+      "type": "shell",
+      "command": "forge test -vvvvv"
+    },
+    {
+      "label": "forge fmt",
+      "type": "shell",
+      "command": "forge fmt"
+    }
+  ]
+}
