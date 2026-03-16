@@ -1,0 +1,1 @@
+Captured ownership by calling Fal1out(), a misspelled constructor that remained a public function, allowing any caller to redefine the contract's owner instantly.
