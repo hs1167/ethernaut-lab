@@ -1,1 +1,1 @@
-
+Exploited an insecure receive() function by first contributing 1 wei to satisfy the mapping check, then triggering the ownership takeover via a raw Ether transfer to drain all funds.
