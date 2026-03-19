@@ -13,12 +13,12 @@ Foundry-based workspace for solving Ethernaut levels.
 - [x] Level 02 - Fallout
 - [x] Level 03 - Coin Flip
 - [x] Level 04 - Telephone
-- [ ] Level 05 - Token
-- [ ] Level 06 - Delegation
-- [ ] Level 07 - Force
-- [ ] Level 08 - Vault
-- [ ] Level 09 - King
-- [ ] Level 10 - Reentrancy
+- [x] Level 05 - Token
+- [x] Level 06 - Delegation
+- [x] Level 07 - Force
+- [x] Level 08 - Vault
+- [x] Level 09 - King
+- [x] Level 10 - Reentrancy
 
 ## Special thanks
 
