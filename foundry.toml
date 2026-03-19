@@ -6,3 +6,7 @@ libs = ["lib"]
 optimizer = true
 optimizer_runs = 200
 fs_permissions = [{ access = "read-write", path = "./" }]
+auto_detect_solc = true
+remappings = [
+    'openzeppelin-contracts-06/=lib/openzeppelin-contracts/'
+]
